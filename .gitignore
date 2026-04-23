@@ -1,0 +1,19 @@
+# Never commit secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local SQLite (old approach - not used anymore)
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# data/ is committed intentionally - it holds companies.json
+# Do NOT add data/ here
