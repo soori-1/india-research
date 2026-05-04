@@ -4,5 +4,7 @@
   "fetch_ok": 325,
   "fetch_failed": 0,
   "fetch_skipped": 0,
-  "source": "Yahoo Finance via yfinance"
+  "source": "Yahoo Finance via yfinance",
+  "last_news_update": "2026-05-04T04:56:13.071631+00:00",
+  "news_updated_count": 324
 }
