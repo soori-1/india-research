@@ -47,7 +47,7 @@
     "analyst_count": 32,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:29.469795+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.379677+00:00"
   },
   {
     "ticker": "HDFCBANK.NS",
@@ -97,7 +97,7 @@
     "analyst_count": 39,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:29.585721+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.518383+00:00"
   },
   {
     "ticker": "BHARTIARTL.NS",
@@ -147,7 +147,7 @@
     "analyst_count": 32,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:29.703535+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.625451+00:00"
   },
   {
     "ticker": "ICICIBANK.NS",
@@ -197,7 +197,7 @@
     "analyst_count": 40,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:29.827654+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.733294+00:00"
   },
   {
     "ticker": "SBIN.NS",
@@ -247,7 +247,7 @@
     "analyst_count": 38,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:29.955780+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.844561+00:00"
   },
   {
     "ticker": "TCS.NS",
@@ -297,7 +297,7 @@
     "analyst_count": 43,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:30.076004+00:00"
+    "news_updated_at": "2026-06-16T06:55:05.949063+00:00"
   },
   {
     "ticker": "LT.NS",
@@ -347,7 +347,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:30.236588+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.053709+00:00"
   },
   {
     "ticker": "BAJFINANCE.NS",
@@ -397,7 +397,7 @@
     "analyst_count": 35,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:30.349149+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.161571+00:00"
   },
   {
     "ticker": "HINDUNILVR.NS",
@@ -447,7 +447,7 @@
     "analyst_count": 37,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:30.504705+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.256682+00:00"
   },
   {
     "ticker": "SUNPHARMA.NS",
@@ -497,7 +497,7 @@
     "analyst_count": 34,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:30.871860+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.440984+00:00"
   },
   {
     "ticker": "ADANIPORTS.NS",
@@ -547,7 +547,7 @@
     "analyst_count": 25,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.012052+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.583072+00:00"
   },
   {
     "ticker": "MARUTI.NS",
@@ -597,7 +597,7 @@
     "analyst_count": 40,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.163678+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.687271+00:00"
   },
   {
     "ticker": "ADANIENT.NS",
@@ -647,7 +647,7 @@
     "analyst_count": 2,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.269540+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.825623+00:00"
   },
   {
     "ticker": "AXISBANK.NS",
@@ -697,7 +697,7 @@
     "analyst_count": 40,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.408329+00:00"
+    "news_updated_at": "2026-06-16T06:55:06.933250+00:00"
   },
   {
     "ticker": "KOTAKBANK.NS",
@@ -747,7 +747,7 @@
     "analyst_count": 36,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.628291+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.034070+00:00"
   },
   {
     "ticker": "NTPC.NS",
@@ -797,7 +797,7 @@
     "analyst_count": 28,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.765265+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.306145+00:00"
   },
   {
     "ticker": "TITAN.NS",
@@ -847,7 +847,7 @@
     "analyst_count": 37,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:31.893919+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.409734+00:00"
   },
   {
     "ticker": "ITC.NS",
@@ -897,7 +897,7 @@
     "analyst_count": 33,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:32.031126+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.507642+00:00"
   },
   {
     "ticker": "ULTRACEMCO.NS",
@@ -947,7 +947,7 @@
     "analyst_count": 39,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:32.266866+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.623631+00:00"
   },
   {
     "ticker": "ONGC.NS",
@@ -997,7 +997,7 @@
     "analyst_count": 30,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:32.381052+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.730970+00:00"
   },
   {
     "ticker": "HCLTECH.NS",
@@ -1047,7 +1047,7 @@
     "analyst_count": 40,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:32.537867+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.836217+00:00"
   },
   {
     "ticker": "JSWSTEEL.NS",
@@ -1097,7 +1097,7 @@
     "analyst_count": 35,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:32.662055+00:00"
+    "news_updated_at": "2026-06-16T06:55:07.947117+00:00"
   },
   {
     "ticker": "BEL.NS",
@@ -1147,7 +1147,7 @@
     "analyst_count": 28,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.086922+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.052850+00:00"
   },
   {
     "ticker": "BAJAJ-AUTO.NS",
@@ -1197,7 +1197,7 @@
     "analyst_count": 39,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.250648+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.277980+00:00"
   },
   {
     "ticker": "COALINDIA.NS",
@@ -1247,7 +1247,7 @@
     "analyst_count": 26,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.380311+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.393091+00:00"
   },
   {
     "ticker": "HAL.NS",
@@ -1297,7 +1297,7 @@
     "analyst_count": 24,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.515229+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.527263+00:00"
   },
   {
     "ticker": "BAJAJFINSV.NS",
@@ -1347,7 +1347,7 @@
     "analyst_count": 15,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.626503+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.635898+00:00"
   },
   {
     "ticker": "NESTLEIND.NS",
@@ -1397,7 +1397,7 @@
     "analyst_count": 36,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.736832+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.755789+00:00"
   },
   {
     "ticker": "POWERGRID.NS",
@@ -1447,7 +1447,7 @@
     "analyst_count": 25,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.858008+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.869978+00:00"
   },
   {
     "ticker": "DMART.NS",
@@ -1497,7 +1497,7 @@
     "analyst_count": 31,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:33.957994+00:00"
+    "news_updated_at": "2026-06-16T06:55:08.988179+00:00"
   },
   {
     "ticker": "TATASTEEL.NS",
@@ -1547,7 +1547,7 @@
     "analyst_count": 35,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.073709+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.180516+00:00"
   },
   {
     "ticker": "ASIANPAINT.NS",
@@ -1597,7 +1597,7 @@
     "analyst_count": 34,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.219784+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.303250+00:00"
   },
   {
     "ticker": "HINDALCO.NS",
@@ -1647,7 +1647,7 @@
     "analyst_count": 28,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.407207+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.437448+00:00"
   },
   {
     "ticker": "ADANIGREEN.NS",
@@ -1697,7 +1697,7 @@
     "analyst_count": 8,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.574030+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.577990+00:00"
   },
   {
     "ticker": "WIPRO.NS",
@@ -1747,7 +1747,7 @@
     "analyst_count": 40,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.695490+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.696070+00:00"
   },
   {
     "ticker": "GRASIM.NS",
@@ -1797,7 +1797,7 @@
     "analyst_count": 11,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.837892+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.806716+00:00"
   },
   {
     "ticker": "IOC.NS",
@@ -1847,7 +1847,7 @@
     "analyst_count": 31,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:34.987001+00:00"
+    "news_updated_at": "2026-06-16T06:55:09.918038+00:00"
   },
   {
     "ticker": "EICHERMOT.NS",
@@ -1897,7 +1897,7 @@
     "analyst_count": 36,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.225612+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.043758+00:00"
   },
   {
     "ticker": "SBILIFE.NS",
@@ -1947,7 +1947,7 @@
     "analyst_count": 37,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.337002+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.152855+00:00"
   },
   {
     "ticker": "VBL.NS",
@@ -1997,7 +1997,7 @@
     "analyst_count": 26,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.483782+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.305040+00:00"
   },
   {
     "ticker": "DIVISLAB.NS",
@@ -2047,7 +2047,7 @@
     "analyst_count": 30,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.639249+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.429174+00:00"
   },
   {
     "ticker": "INDIGO.NS",
@@ -2097,7 +2097,7 @@
     "analyst_count": 25,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.752999+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.538575+00:00"
   },
   {
     "ticker": "BSE.NS",
@@ -2147,7 +2147,7 @@
     "analyst_count": 14,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.858098+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.679135+00:00"
   },
   {
     "ticker": "CUMMINSIND.NS",
@@ -2197,7 +2197,7 @@
     "analyst_count": 23,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:35.988048+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.806713+00:00"
   },
   {
     "ticker": "JIOFIN.NS",
@@ -2247,7 +2247,7 @@
     "analyst_count": 2,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.099192+00:00"
+    "news_updated_at": "2026-06-16T06:55:10.912385+00:00"
   },
   {
     "ticker": "MOTHERSON.NS",
@@ -2297,7 +2297,7 @@
     "analyst_count": 22,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.264797+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.039924+00:00"
   },
   {
     "ticker": "ABB.NS",
@@ -2347,7 +2347,7 @@
     "analyst_count": 28,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.411995+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.140048+00:00"
   },
   {
     "ticker": "TRENT.NS",
@@ -2397,7 +2397,7 @@
     "analyst_count": 25,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.562328+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.259183+00:00"
   },
   {
     "ticker": "TORNTPHARM.NS",
@@ -2447,7 +2447,7 @@
     "analyst_count": 28,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.690424+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.402699+00:00"
   },
   {
     "ticker": "PIDILITIND.NS",
@@ -2497,7 +2497,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.826864+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.508333+00:00"
   },
   {
     "ticker": "DLF.NS",
@@ -2547,7 +2547,7 @@
     "analyst_count": 22,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:36.932988+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.620967+00:00"
   },
   {
     "ticker": "POLYCAB.NS",
@@ -2597,7 +2597,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.044550+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.754630+00:00"
   },
   {
     "ticker": "BHEL.NS",
@@ -2647,7 +2647,7 @@
     "analyst_count": 20,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.182612+00:00"
+    "news_updated_at": "2026-06-16T06:55:11.860777+00:00"
   },
   {
     "ticker": "TECHM.NS",
@@ -2697,7 +2697,7 @@
     "analyst_count": 40,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.333706+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.076915+00:00"
   },
   {
     "ticker": "SIEMENS.NS",
@@ -2747,7 +2747,7 @@
     "analyst_count": 25,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.436223+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.188845+00:00"
   },
   {
     "ticker": "TATAPOWER.NS",
@@ -2797,7 +2797,7 @@
     "analyst_count": 23,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.583319+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.341782+00:00"
   },
   {
     "ticker": "VEDL.NS",
@@ -2847,7 +2847,7 @@
     "analyst_count": 4,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.708113+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.464030+00:00"
   },
   {
     "ticker": "MUTHOOTFIN.NS",
@@ -2897,7 +2897,7 @@
     "analyst_count": 21,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.871657+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.607593+00:00"
   },
   {
     "ticker": "CHOLAFIN.NS",
@@ -2947,7 +2947,7 @@
     "analyst_count": 34,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:37.981213+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.712487+00:00"
   },
   {
     "ticker": "HDFCLIFE.NS",
@@ -2997,7 +2997,7 @@
     "analyst_count": 35,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.146288+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.819610+00:00"
   },
   {
     "ticker": "BPCL.NS",
@@ -3047,7 +3047,7 @@
     "analyst_count": 31,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.270823+00:00"
+    "news_updated_at": "2026-06-16T06:55:12.927124+00:00"
   },
   {
     "ticker": "IRFC.NS",
@@ -3097,7 +3097,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.506971+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.078089+00:00"
   },
   {
     "ticker": "UNIONBANK.NS",
@@ -3147,7 +3147,7 @@
     "analyst_count": 15,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.611339+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.175999+00:00"
   },
   {
     "ticker": "BRITANNIA.NS",
@@ -3197,7 +3197,7 @@
     "analyst_count": 34,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.761767+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.283273+00:00"
   },
   {
     "ticker": "JINDALSTEL.NS",
@@ -3247,7 +3247,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:38.915301+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.432357+00:00"
   },
   {
     "ticker": "PNB.NS",
@@ -3297,7 +3297,7 @@
     "analyst_count": 17,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.052021+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.560231+00:00"
   },
   {
     "ticker": "APOLLOHOSP.NS",
@@ -3347,7 +3347,7 @@
     "analyst_count": 30,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.165604+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.668956+00:00"
   },
   {
     "ticker": "CANBK.NS",
@@ -3397,7 +3397,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.273274+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.844038+00:00"
   },
   {
     "ticker": "BAJAJHLDNG.NS",
@@ -3447,7 +3447,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.368300+00:00"
+    "news_updated_at": "2026-06-16T06:55:13.935668+00:00"
   },
   {
     "ticker": "INDUSTOWER.NS",
@@ -3497,7 +3497,7 @@
     "analyst_count": 25,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.493386+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.036204+00:00"
   },
   {
     "ticker": "TATACONSUM.NS",
@@ -3547,7 +3547,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.598218+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.186484+00:00"
   },
   {
     "ticker": "CIPLA.NS",
@@ -3597,7 +3597,7 @@
     "analyst_count": 37,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.757342+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.293477+00:00"
   },
   {
     "ticker": "ZYDUSLIFE.NS",
@@ -3647,7 +3647,7 @@
     "analyst_count": 30,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:39.954328+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.458701+00:00"
   },
   {
     "ticker": "AMBUJACEM.NS",
@@ -3697,7 +3697,7 @@
     "analyst_count": 41,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.133336+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.557885+00:00"
   },
   {
     "ticker": "BOSCHLTD.NS",
@@ -3747,7 +3747,7 @@
     "analyst_count": 4,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.239151+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.655609+00:00"
   },
   {
     "ticker": "GAIL.NS",
@@ -3797,7 +3797,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.364907+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.757816+00:00"
   },
   {
     "ticker": "JSWENERGY.NS",
@@ -3847,7 +3847,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.505141+00:00"
+    "news_updated_at": "2026-06-16T06:55:14.910730+00:00"
   },
   {
     "ticker": "DRREDDY.NS",
@@ -3897,7 +3897,7 @@
     "analyst_count": 39,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.644083+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.029550+00:00"
   },
   {
     "ticker": "MARICO.NS",
@@ -3947,7 +3947,7 @@
     "analyst_count": 38,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.810320+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.147241+00:00"
   },
   {
     "ticker": "GODREJCP.NS",
@@ -3997,7 +3997,7 @@
     "analyst_count": 36,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:40.990687+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.261814+00:00"
   },
   {
     "ticker": "LUPIN.NS",
@@ -4047,7 +4047,7 @@
     "analyst_count": 38,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.140266+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.370217+00:00"
   },
   {
     "ticker": "MANKIND.NS",
@@ -4097,7 +4097,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.286380+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.490791+00:00"
   },
   {
     "ticker": "HEROMOTOCO.NS",
@@ -4147,7 +4147,7 @@
     "analyst_count": 35,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.425964+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.648238+00:00"
   },
   {
     "ticker": "ABCAPITAL.NS",
@@ -4197,7 +4197,7 @@
     "analyst_count": 12,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.564867+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.788800+00:00"
   },
   {
     "ticker": "INDHOTEL.NS",
@@ -4247,7 +4247,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.701865+00:00"
+    "news_updated_at": "2026-06-16T06:55:15.931714+00:00"
   },
   {
     "ticker": "MAXHEALTH.NS",
@@ -4297,7 +4297,7 @@
     "analyst_count": 25,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.882920+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.064920+00:00"
   },
   {
     "ticker": "BHARATFORG.NS",
@@ -4347,7 +4347,7 @@
     "analyst_count": 23,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:41.991840+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.173383+00:00"
   },
   {
     "ticker": "SHREECEM.NS",
@@ -4397,7 +4397,7 @@
     "analyst_count": 41,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.117947+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.327189+00:00"
   },
   {
     "ticker": "ASHOKLEY.NS",
@@ -4447,7 +4447,7 @@
     "analyst_count": 33,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.222347+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.457705+00:00"
   },
   {
     "ticker": "WAAREEENER.NS",
@@ -4497,7 +4497,7 @@
     "analyst_count": 15,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.399020+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.621832+00:00"
   },
   {
     "ticker": "OFSS.NS",
@@ -4547,7 +4547,7 @@
     "analyst_count": 2,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.508578+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.713912+00:00"
   },
   {
     "ticker": "RECLTD.NS",
@@ -4597,7 +4597,7 @@
     "analyst_count": 13,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.621554+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.798100+00:00"
   },
   {
     "ticker": "ICICIGI.NS",
@@ -4647,7 +4647,7 @@
     "analyst_count": 26,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.726841+00:00"
+    "news_updated_at": "2026-06-16T06:55:16.904193+00:00"
   },
   {
     "ticker": "PERSISTENT.NS",
@@ -4697,7 +4697,7 @@
     "analyst_count": 34,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:42.858035+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.113524+00:00"
   },
   {
     "ticker": "SAIL.NS",
@@ -4747,7 +4747,7 @@
     "analyst_count": 28,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.000517+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.322815+00:00"
   },
   {
     "ticker": "HINDPETRO.NS",
@@ -4797,7 +4797,7 @@
     "analyst_count": 31,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.158958+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.433175+00:00"
   },
   {
     "ticker": "AUROPHARMA.NS",
@@ -4847,7 +4847,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.296403+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.548133+00:00"
   },
   {
     "ticker": "ATGL.NS",
@@ -4897,7 +4897,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.404328+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.699268+00:00"
   },
   {
     "ticker": "SRF.NS",
@@ -4947,7 +4947,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.519989+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.809486+00:00"
   },
   {
     "ticker": "NMDC.NS",
@@ -4997,7 +4997,7 @@
     "analyst_count": 19,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:43.642748+00:00"
+    "news_updated_at": "2026-06-16T06:55:17.907221+00:00"
   },
   {
     "ticker": "OIL.NS",
@@ -5047,7 +5047,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:44.900642+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.037083+00:00"
   },
   {
     "ticker": "NATIONALUM.NS",
@@ -5097,7 +5097,7 @@
     "analyst_count": 11,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.006757+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.175998+00:00"
   },
   {
     "ticker": "NHPC.NS",
@@ -5147,7 +5147,7 @@
     "analyst_count": 7,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.178766+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.302292+00:00"
   },
   {
     "ticker": "DABUR.NS",
@@ -5197,7 +5197,7 @@
     "analyst_count": 37,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.334277+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.442314+00:00"
   },
   {
     "ticker": "NYKAA.NS",
@@ -5247,7 +5247,7 @@
     "analyst_count": 25,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.473299+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.585485+00:00"
   },
   {
     "ticker": "LAURUSLABS.NS",
@@ -5297,7 +5297,7 @@
     "analyst_count": 13,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.592503+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.689658+00:00"
   },
   {
     "ticker": "MCX.NS",
@@ -5347,7 +5347,7 @@
     "analyst_count": 12,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.692478+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.790849+00:00"
   },
   {
     "ticker": "AUBANK.NS",
@@ -5397,7 +5397,7 @@
     "analyst_count": 26,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.809837+00:00"
+    "news_updated_at": "2026-06-16T06:55:19.901572+00:00"
   },
   {
     "ticker": "HAVELLS.NS",
@@ -5447,7 +5447,7 @@
     "analyst_count": 36,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:45.958509+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.044317+00:00"
   },
   {
     "ticker": "ICICIPRULI.NS",
@@ -5497,7 +5497,7 @@
     "analyst_count": 33,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.098157+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.157267+00:00"
   },
   {
     "ticker": "TORNTPOWER.NS",
@@ -5547,7 +5547,7 @@
     "analyst_count": 10,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.258689+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.295040+00:00"
   },
   {
     "ticker": "FEDERALBNK.NS",
@@ -5597,7 +5597,7 @@
     "analyst_count": 34,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.402427+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.399056+00:00"
   },
   {
     "ticker": "PAYTM.NS",
@@ -5647,7 +5647,7 @@
     "analyst_count": 19,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.517030+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.500023+00:00"
   },
   {
     "ticker": "INDUSINDBK.NS",
@@ -5697,7 +5697,7 @@
     "analyst_count": 36,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.628446+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.612680+00:00"
   },
   {
     "ticker": "FORTIS.NS",
@@ -5747,7 +5747,7 @@
     "analyst_count": 18,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.792494+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.714991+00:00"
   },
   {
     "ticker": "DIXON.NS",
@@ -5797,7 +5797,7 @@
     "analyst_count": 29,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:46.899161+00:00"
+    "news_updated_at": "2026-06-16T06:55:20.879775+00:00"
   },
   {
     "ticker": "BIOCON.NS",
@@ -5847,7 +5847,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.039993+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.076923+00:00"
   },
   {
     "ticker": "LTF.NS",
@@ -5897,7 +5897,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.151718+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.178125+00:00"
   },
   {
     "ticker": "GICRE.NS",
@@ -5947,7 +5947,7 @@
     "analyst_count": 5,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.280231+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.303300+00:00"
   },
   {
     "ticker": "NAUKRI.NS",
@@ -5997,7 +5997,7 @@
     "analyst_count": 21,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.377882+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.402515+00:00"
   },
   {
     "ticker": "COFORGE.NS",
@@ -6047,7 +6047,7 @@
     "analyst_count": 34,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.529513+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.562776+00:00"
   },
   {
     "ticker": "SCHAEFFLER.NS",
@@ -6097,7 +6097,7 @@
     "analyst_count": 7,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.630214+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.676784+00:00"
   },
   {
     "ticker": "ALKEM.NS",
@@ -6147,7 +6147,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.830532+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.805505+00:00"
   },
   {
     "ticker": "PHOENIXLTD.NS",
@@ -6197,7 +6197,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:47.935489+00:00"
+    "news_updated_at": "2026-06-16T06:55:21.993649+00:00"
   },
   {
     "ticker": "GLENMARK.NS",
@@ -6247,7 +6247,7 @@
     "analyst_count": 11,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.075478+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.144373+00:00"
   },
   {
     "ticker": "IDFCFIRSTB.NS",
@@ -6297,7 +6297,7 @@
     "analyst_count": 18,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.190962+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.256307+00:00"
   },
   {
     "ticker": "OBEROIRLTY.NS",
@@ -6347,7 +6347,7 @@
     "analyst_count": 26,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.332009+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.364785+00:00"
   },
   {
     "ticker": "BERGEPAINT.NS",
@@ -6397,7 +6397,7 @@
     "analyst_count": 22,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.456640+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.589044+00:00"
   },
   {
     "ticker": "PRESTIGE.NS",
@@ -6447,7 +6447,7 @@
     "analyst_count": 23,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.575987+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.719880+00:00"
   },
   {
     "ticker": "SBICARD.NS",
@@ -6497,7 +6497,7 @@
     "analyst_count": 24,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.740632+00:00"
+    "news_updated_at": "2026-06-16T06:55:22.862098+00:00"
   },
   {
     "ticker": "JSWINFRA.NS",
@@ -6547,7 +6547,7 @@
     "analyst_count": 17,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.843978+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.051524+00:00"
   },
   {
     "ticker": "THERMAX.NS",
@@ -6597,7 +6597,7 @@
     "analyst_count": 22,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:48.981588+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.216115+00:00"
   },
   {
     "ticker": "TATACOMM.NS",
@@ -6647,7 +6647,7 @@
     "analyst_count": 10,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.095655+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.359691+00:00"
   },
   {
     "ticker": "UPL.NS",
@@ -6697,7 +6697,7 @@
     "analyst_count": 18,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.202322+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.455305+00:00"
   },
   {
     "ticker": "COLPAL.NS",
@@ -6747,7 +6747,7 @@
     "analyst_count": 27,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.314879+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.563152+00:00"
   },
   {
     "ticker": "COROMANDEL.NS",
@@ -6797,7 +6797,7 @@
     "analyst_count": 9,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.437137+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.701031+00:00"
   },
   {
     "ticker": "GODREJPROP.NS",
@@ -6847,7 +6847,7 @@
     "analyst_count": 22,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.606520+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.887336+00:00"
   },
   {
     "ticker": "MRF.NS",
@@ -6897,7 +6897,7 @@
     "analyst_count": 10,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.705070+00:00"
+    "news_updated_at": "2026-06-16T06:55:23.969867+00:00"
   },
   {
     "ticker": "MOTILALOFS.NS",
@@ -6947,7 +6947,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.862485+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.111140+00:00"
   },
   {
     "ticker": "PATANJALI.NS",
@@ -6997,7 +6997,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:49.992325+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.322832+00:00"
   },
   {
     "ticker": "MPHASIS.NS",
@@ -7047,7 +7047,7 @@
     "analyst_count": 36,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.126021+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.463040+00:00"
   },
   {
     "ticker": "SUPREMEIND.NS",
@@ -7097,7 +7097,7 @@
     "analyst_count": 28,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.269832+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.565577+00:00"
   },
   {
     "ticker": "AIAENG.NS",
@@ -7147,7 +7147,7 @@
     "analyst_count": 13,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.395015+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.673314+00:00"
   },
   {
     "ticker": "BALKRISIND.NS",
@@ -7197,7 +7197,7 @@
     "analyst_count": 17,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.507861+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.791071+00:00"
   },
   {
     "ticker": "PAGEIND.NS",
@@ -7247,7 +7247,7 @@
     "analyst_count": 26,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.670903+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.890093+00:00"
   },
   {
     "ticker": "ASTRAL.NS",
@@ -7297,7 +7297,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.785814+00:00"
+    "news_updated_at": "2026-06-16T06:55:24.984353+00:00"
   },
   {
     "ticker": "PIIND.NS",
@@ -7347,7 +7347,7 @@
     "analyst_count": 24,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:50.918581+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.133880+00:00"
   },
   {
     "ticker": "IRCTC.NS",
@@ -7397,7 +7397,7 @@
     "analyst_count": 8,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.051900+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.232186+00:00"
   },
   {
     "ticker": "PETRONET.NS",
@@ -7447,7 +7447,7 @@
     "analyst_count": 31,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.279401+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.535378+00:00"
   },
   {
     "ticker": "VOLTAS.NS",
@@ -7497,7 +7497,7 @@
     "analyst_count": 35,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.386679+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.733227+00:00"
   },
   {
     "ticker": "HUDCO.NS",
@@ -7547,7 +7547,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.525938+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.878188+00:00"
   },
   {
     "ticker": "FLUOROCHEM.NS",
@@ -7597,7 +7597,7 @@
     "analyst_count": 14,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.625357+00:00"
+    "news_updated_at": "2026-06-16T06:55:25.997890+00:00"
   },
   {
     "ticker": "ENDURANCE.NS",
@@ -7647,7 +7647,7 @@
     "analyst_count": 14,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.766920+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.162926+00:00"
   },
   {
     "ticker": "JKCEMENT.NS",
@@ -7697,7 +7697,7 @@
     "analyst_count": 28,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.884873+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.266487+00:00"
   },
   {
     "ticker": "IPCALAB.NS",
@@ -7747,7 +7747,7 @@
     "analyst_count": 17,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:51.984299+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.402723+00:00"
   },
   {
     "ticker": "COCHINSHIP.NS",
@@ -7797,7 +7797,7 @@
     "analyst_count": 2,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.121263+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.541343+00:00"
   },
   {
     "ticker": "SONACOMS.NS",
@@ -7847,7 +7847,7 @@
     "analyst_count": 14,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.261487+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.674342+00:00"
   },
   {
     "ticker": "GLAXO.NS",
@@ -7897,7 +7897,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.432313+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.808263+00:00"
   },
   {
     "ticker": "NAVINFLUOR.NS",
@@ -7947,7 +7947,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.541029+00:00"
+    "news_updated_at": "2026-06-16T06:55:26.897065+00:00"
   },
   {
     "ticker": "LTTS.NS",
@@ -7997,7 +7997,7 @@
     "analyst_count": 29,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.651383+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.033756+00:00"
   },
   {
     "ticker": "WOCKPHARMA.NS",
@@ -8047,7 +8047,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.820483+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.126269+00:00"
   },
   {
     "ticker": "WELCORP.NS",
@@ -8097,7 +8097,7 @@
     "analyst_count": 6,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:52.987610+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.244491+00:00"
   },
   {
     "ticker": "JBCHEPHARM.NS",
@@ -8147,7 +8147,7 @@
     "analyst_count": 9,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.112986+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.367845+00:00"
   },
   {
     "ticker": "KPRMILL.NS",
@@ -8197,7 +8197,7 @@
     "analyst_count": 10,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.218825+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.464457+00:00"
   },
   {
     "ticker": "BANDHANBNK.NS",
@@ -8247,7 +8247,7 @@
     "analyst_count": 24,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.320147+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.607900+00:00"
   },
   {
     "ticker": "DELHIVERY.NS",
@@ -8297,7 +8297,7 @@
     "analyst_count": 22,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.412416+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.698187+00:00"
   },
   {
     "ticker": "EXIDEIND.NS",
@@ -8347,7 +8347,7 @@
     "analyst_count": 15,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.535915+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.825375+00:00"
   },
   {
     "ticker": "BLUESTARCO.NS",
@@ -8397,7 +8397,7 @@
     "analyst_count": 23,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.632077+00:00"
+    "news_updated_at": "2026-06-16T06:55:27.933512+00:00"
   },
   {
     "ticker": "MEDANTA.NS",
@@ -8447,7 +8447,7 @@
     "analyst_count": 17,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.778971+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.076104+00:00"
   },
   {
     "ticker": "ANGELONE.NS",
@@ -8497,7 +8497,7 @@
     "analyst_count": 11,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:53.935086+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.211137+00:00"
   },
   {
     "ticker": "STARHEALTH.NS",
@@ -8547,7 +8547,7 @@
     "analyst_count": 23,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.060743+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.348211+00:00"
   },
   {
     "ticker": "ESCORTS.NS",
@@ -8597,7 +8597,7 @@
     "analyst_count": 17,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.195587+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.491117+00:00"
   },
   {
     "ticker": "MANAPPURAM.NS",
@@ -8647,7 +8647,7 @@
     "analyst_count": 14,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.328590+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.630031+00:00"
   },
   {
     "ticker": "GRSE.NS",
@@ -8697,7 +8697,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.518689+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.726098+00:00"
   },
   {
     "ticker": "SCHNEIDER.NS",
@@ -8747,7 +8747,7 @@
     "analyst_count": 2,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.659327+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.866651+00:00"
   },
   {
     "ticker": "LICHSGFIN.NS",
@@ -8797,7 +8797,7 @@
     "analyst_count": 23,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.757766+00:00"
+    "news_updated_at": "2026-06-16T06:55:28.967678+00:00"
   },
   {
     "ticker": "TATATECH.NS",
@@ -8847,7 +8847,7 @@
     "analyst_count": 14,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:54.906750+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.108935+00:00"
   },
   {
     "ticker": "JUBLFOOD.NS",
@@ -8897,7 +8897,7 @@
     "analyst_count": 29,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.043463+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.246137+00:00"
   },
   {
     "ticker": "STLTECH.NS",
@@ -8947,7 +8947,7 @@
     "analyst_count": 2,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.144635+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.352091+00:00"
   },
   {
     "ticker": "TATAELXSI.NS",
@@ -8997,7 +8997,7 @@
     "analyst_count": 15,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.291999+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.452225+00:00"
   },
   {
     "ticker": "GUJGASLTD.NS",
@@ -9047,7 +9047,7 @@
     "analyst_count": 28,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.416562+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.586258+00:00"
   },
   {
     "ticker": "TIMKEN.NS",
@@ -9097,7 +9097,7 @@
     "analyst_count": 7,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.512468+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.688979+00:00"
   },
   {
     "ticker": "PNBHOUSING.NS",
@@ -9147,7 +9147,7 @@
     "analyst_count": 12,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.677834+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.846112+00:00"
   },
   {
     "ticker": "LALPATHLAB.NS",
@@ -9197,7 +9197,7 @@
     "analyst_count": 26,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.788669+00:00"
+    "news_updated_at": "2026-06-16T06:55:29.951523+00:00"
   },
   {
     "ticker": "ACC.NS",
@@ -9247,7 +9247,7 @@
     "analyst_count": 31,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:55.901825+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.049179+00:00"
   },
   {
     "ticker": "GILLETTE.NS",
@@ -9297,7 +9297,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.058516+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.147261+00:00"
   },
   {
     "ticker": "IRB.NS",
@@ -9347,7 +9347,7 @@
     "analyst_count": 6,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.167566+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.341365+00:00"
   },
   {
     "ticker": "FORCEMOT.NS",
@@ -9397,7 +9397,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.269116+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.424242+00:00"
   },
   {
     "ticker": "SUMICHEM.NS",
@@ -9447,7 +9447,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.411070+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.519904+00:00"
   },
   {
     "ticker": "CESC.NS",
@@ -9497,7 +9497,7 @@
     "analyst_count": 11,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.509720+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.604686+00:00"
   },
   {
     "ticker": "DEEPAKNTR.NS",
@@ -9547,7 +9547,7 @@
     "analyst_count": 18,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.622746+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.706565+00:00"
   },
   {
     "ticker": "KPIL.NS",
@@ -9597,7 +9597,7 @@
     "analyst_count": 18,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.746939+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.821347+00:00"
   },
   {
     "ticker": "DATAPATTNS.NS",
@@ -9647,7 +9647,7 @@
     "analyst_count": 10,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.857652+00:00"
+    "news_updated_at": "2026-06-16T06:55:30.984333+00:00"
   },
   {
     "ticker": "KPITTECH.NS",
@@ -9697,7 +9697,7 @@
     "analyst_count": 21,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:56.973605+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.081657+00:00"
   },
   {
     "ticker": "CRAFTSMAN.NS",
@@ -9747,7 +9747,7 @@
     "analyst_count": 8,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.075101+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.242311+00:00"
   },
   {
     "ticker": "RBLBANK.NS",
@@ -9797,7 +9797,7 @@
     "analyst_count": 18,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.235627+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.356933+00:00"
   },
   {
     "ticker": "CREDITACC.NS",
@@ -9847,7 +9847,7 @@
     "analyst_count": 16,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.345726+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.506672+00:00"
   },
   {
     "ticker": "KAYNES.NS",
@@ -9897,7 +9897,7 @@
     "analyst_count": 22,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.481031+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.624599+00:00"
   },
   {
     "ticker": "PFIZER.NS",
@@ -9947,7 +9947,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.572199+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.709130+00:00"
   },
   {
     "ticker": "HATSUN.NS",
@@ -9997,7 +9997,7 @@
     "analyst_count": 2,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:57.666205+00:00"
+    "news_updated_at": "2026-06-16T06:55:31.790515+00:00"
   },
   {
     "ticker": "SUNTV.NS",
@@ -10047,7 +10047,7 @@
     "analyst_count": 11,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:58.759248+00:00"
+    "news_updated_at": "2026-06-16T06:55:32.881588+00:00"
   },
   {
     "ticker": "RAMCOCEM.NS",
@@ -10097,7 +10097,7 @@
     "analyst_count": 32,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:58.908560+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.039670+00:00"
   },
   {
     "ticker": "ATUL.NS",
@@ -10147,7 +10147,7 @@
     "analyst_count": 11,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.004741+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.186778+00:00"
   },
   {
     "ticker": "CARBORUNIV.NS",
@@ -10197,7 +10197,7 @@
     "analyst_count": 7,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.111714+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.285246+00:00"
   },
   {
     "ticker": "GRANULES.NS",
@@ -10247,7 +10247,7 @@
     "analyst_count": 7,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.266886+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.463263+00:00"
   },
   {
     "ticker": "TATACHEM.NS",
@@ -10297,7 +10297,7 @@
     "analyst_count": 9,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.403037+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.599087+00:00"
   },
   {
     "ticker": "REDINGTON.NS",
@@ -10347,7 +10347,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.529488+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.700745+00:00"
   },
   {
     "ticker": "ELGIEQUIP.NS",
@@ -10397,7 +10397,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.680354+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.860717+00:00"
   },
   {
     "ticker": "GPIL.NS",
@@ -10447,7 +10447,7 @@
     "analyst_count": 1,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.784873+00:00"
+    "news_updated_at": "2026-06-16T06:55:33.944905+00:00"
   },
   {
     "ticker": "CASTROLIND.NS",
@@ -10497,7 +10497,7 @@
     "analyst_count": 5,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:51:59.948947+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.075363+00:00"
   },
   {
     "ticker": "SYNGENE.NS",
@@ -10547,7 +10547,7 @@
     "analyst_count": 8,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.090426+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.179860+00:00"
   },
   {
     "ticker": "CROMPTON.NS",
@@ -10597,7 +10597,7 @@
     "analyst_count": 34,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.246270+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.311531+00:00"
   },
   {
     "ticker": "SUNDRMFAST.NS",
@@ -10647,7 +10647,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.352483+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.396316+00:00"
   },
   {
     "ticker": "KANSAINER.NS",
@@ -10697,7 +10697,7 @@
     "analyst_count": 17,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.515381+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.527317+00:00"
   },
   {
     "ticker": "KAJARIACER.NS",
@@ -10747,7 +10747,7 @@
     "analyst_count": 26,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.631794+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.637245+00:00"
   },
   {
     "ticker": "EMAMILTD.NS",
@@ -10797,7 +10797,7 @@
     "analyst_count": 22,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.741406+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.730856+00:00"
   },
   {
     "ticker": "NATCOPHARM.NS",
@@ -10847,7 +10847,7 @@
     "analyst_count": 9,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:00.898756+00:00"
+    "news_updated_at": "2026-06-16T06:55:34.882039+00:00"
   },
   {
     "ticker": "BIKAJI.NS",
@@ -10897,7 +10897,7 @@
     "analyst_count": 10,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.065977+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.034564+00:00"
   },
   {
     "ticker": "BRIGADE.NS",
@@ -10947,7 +10947,7 @@
     "analyst_count": 15,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.204895+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.164037+00:00"
   },
   {
     "ticker": "AVANTIFEED.NS",
@@ -10997,7 +10997,7 @@
     "analyst_count": 1,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.316286+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.322794+00:00"
   },
   {
     "ticker": "ZYDUSWELL.NS",
@@ -11047,7 +11047,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.445321+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.424271+00:00"
   },
   {
     "ticker": "SOBHA.NS",
@@ -11097,7 +11097,7 @@
     "analyst_count": 17,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.587841+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.643007+00:00"
   },
   {
     "ticker": "KFINTECH.NS",
@@ -11147,7 +11147,7 @@
     "analyst_count": 19,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.692904+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.773610+00:00"
   },
   {
     "ticker": "DEVYANI.NS",
@@ -11197,7 +11197,7 @@
     "analyst_count": 23,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:01.882673+00:00"
+    "news_updated_at": "2026-06-16T06:55:35.925196+00:00"
   },
   {
     "ticker": "ECLERX.NS",
@@ -11247,7 +11247,7 @@
     "analyst_count": 10,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.052068+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.054004+00:00"
   },
   {
     "ticker": "BEML.NS",
@@ -11297,7 +11297,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.180959+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.190502+00:00"
   },
   {
     "ticker": "WELSPUNLIV.NS",
@@ -11347,7 +11347,7 @@
     "analyst_count": 10,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.294876+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.315078+00:00"
   },
   {
     "ticker": "FINEORG.NS",
@@ -11397,7 +11397,7 @@
     "analyst_count": 10,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.413690+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.412790+00:00"
   },
   {
     "ticker": "RAINBOW.NS",
@@ -11447,7 +11447,7 @@
     "analyst_count": 13,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.547019+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.545961+00:00"
   },
   {
     "ticker": "POLYMED.NS",
@@ -11497,7 +11497,7 @@
     "analyst_count": 6,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.700122+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.676710+00:00"
   },
   {
     "ticker": "VINATIORGA.NS",
@@ -11547,7 +11547,7 @@
     "analyst_count": 12,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.810909+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.780796+00:00"
   },
   {
     "ticker": "EIDPARRY.NS",
@@ -11597,7 +11597,7 @@
     "analyst_count": 1,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:02.913137+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.880339+00:00"
   },
   {
     "ticker": "KEC.NS",
@@ -11647,7 +11647,7 @@
     "analyst_count": 22,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.045824+00:00"
+    "news_updated_at": "2026-06-16T06:55:36.979786+00:00"
   },
   {
     "ticker": "VGUARD.NS",
@@ -11697,7 +11697,7 @@
     "analyst_count": 17,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.179208+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.072976+00:00"
   },
   {
     "ticker": "PARADEEP.NS",
@@ -11747,7 +11747,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.312756+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.212738+00:00"
   },
   {
     "ticker": "APTUS.NS",
@@ -11797,7 +11797,7 @@
     "analyst_count": 17,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.477441+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.356513+00:00"
   },
   {
     "ticker": "CEATLTD.NS",
@@ -11847,7 +11847,7 @@
     "analyst_count": 17,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.636059+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.494169+00:00"
   },
   {
     "ticker": "IRCON.NS",
@@ -11897,7 +11897,7 @@
     "analyst_count": 4,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.772281+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.612828+00:00"
   },
   {
     "ticker": "TRIDENT.NS",
@@ -11947,7 +11947,7 @@
     "analyst_count": 1,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.867906+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.701933+00:00"
   },
   {
     "ticker": "NUVOCO.NS",
@@ -11997,7 +11997,7 @@
     "analyst_count": 18,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:03.961234+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.784056+00:00"
   },
   {
     "ticker": "UTIAMC.NS",
@@ -12047,7 +12047,7 @@
     "analyst_count": 17,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.109153+00:00"
+    "news_updated_at": "2026-06-16T06:55:37.902682+00:00"
   },
   {
     "ticker": "JMFINANCIL.NS",
@@ -12097,7 +12097,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.274046+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.072944+00:00"
   },
   {
     "ticker": "ELECON.NS",
@@ -12147,7 +12147,7 @@
     "analyst_count": 2,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.434922+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.209340+00:00"
   },
   {
     "ticker": "ZENSARTECH.NS",
@@ -12197,7 +12197,7 @@
     "analyst_count": 12,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.554335+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.311795+00:00"
   },
   {
     "ticker": "IEX.NS",
@@ -12247,7 +12247,7 @@
     "analyst_count": 11,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.702982+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.515564+00:00"
   },
   {
     "ticker": "METROPOLIS.NS",
@@ -12297,7 +12297,7 @@
     "analyst_count": 18,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.806619+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.615208+00:00"
   },
   {
     "ticker": "HOMEFIRST.NS",
@@ -12347,7 +12347,7 @@
     "analyst_count": 22,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:04.914846+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.741095+00:00"
   },
   {
     "ticker": "BLUEDART.NS",
@@ -12397,7 +12397,7 @@
     "analyst_count": 5,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.081301+00:00"
+    "news_updated_at": "2026-06-16T06:55:38.874541+00:00"
   },
   {
     "ticker": "TITAGARH.NS",
@@ -12447,7 +12447,7 @@
     "analyst_count": 8,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.198750+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.020367+00:00"
   },
   {
     "ticker": "BALRAMCHIN.NS",
@@ -12497,7 +12497,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.335161+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.145458+00:00"
   },
   {
     "ticker": "MEDPLUS.NS",
@@ -12547,7 +12547,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.484202+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.295533+00:00"
   },
   {
     "ticker": "AAVAS.NS",
@@ -12597,7 +12597,7 @@
     "analyst_count": 20,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.605309+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.399974+00:00"
   },
   {
     "ticker": "OLECTRA.NS",
@@ -12647,7 +12647,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.723078+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.529216+00:00"
   },
   {
     "ticker": "CYIENT.NS",
@@ -12697,7 +12697,7 @@
     "analyst_count": 21,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:05.891133+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.750018+00:00"
   },
   {
     "ticker": "SHILPAMED.NS",
@@ -12747,7 +12747,7 @@
     "analyst_count": 2,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.056928+00:00"
+    "news_updated_at": "2026-06-16T06:55:39.908325+00:00"
   },
   {
     "ticker": "RITES.NS",
@@ -12797,7 +12797,7 @@
     "analyst_count": 5,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.216881+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.049286+00:00"
   },
   {
     "ticker": "PVRINOX.NS",
@@ -12847,7 +12847,7 @@
     "analyst_count": 16,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.360934+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.192607+00:00"
   },
   {
     "ticker": "NCC.NS",
@@ -12897,7 +12897,7 @@
     "analyst_count": 13,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.470118+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.327823+00:00"
   },
   {
     "ticker": "RATEGAIN.NS",
@@ -12947,7 +12947,7 @@
     "analyst_count": 9,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.564869+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.416849+00:00"
   },
   {
     "ticker": "LEMONTREE.NS",
@@ -12997,7 +12997,7 @@
     "analyst_count": 21,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.730418+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.550265+00:00"
   },
   {
     "ticker": "SAREGAMA.NS",
@@ -13047,7 +13047,7 @@
     "analyst_count": 4,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:06.904516+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.680640+00:00"
   },
   {
     "ticker": "BATAINDIA.NS",
@@ -13097,7 +13097,7 @@
     "analyst_count": 16,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.060841+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.810992+00:00"
   },
   {
     "ticker": "TIPSMUSIC.NS",
@@ -13147,7 +13147,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.262657+00:00"
+    "news_updated_at": "2026-06-16T06:55:40.963401+00:00"
   },
   {
     "ticker": "CLEAN.NS",
@@ -13197,7 +13197,7 @@
     "analyst_count": 14,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.400118+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.101631+00:00"
   },
   {
     "ticker": "THYROCARE.NS",
@@ -13247,7 +13247,7 @@
     "analyst_count": 4,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.505069+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.197857+00:00"
   },
   {
     "ticker": "TRIVENI.NS",
@@ -13297,7 +13297,7 @@
     "analyst_count": 3,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.596459+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.280848+00:00"
   },
   {
     "ticker": "EQUITASBNK.NS",
@@ -13347,7 +13347,7 @@
     "analyst_count": 19,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.710295+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.376758+00:00"
   },
   {
     "ticker": "CAMPUS.NS",
@@ -13397,7 +13397,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.857105+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.514244+00:00"
   },
   {
     "ticker": "JYOTHYLAB.NS",
@@ -13447,7 +13447,7 @@
     "analyst_count": 11,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:07.971222+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.645855+00:00"
   },
   {
     "ticker": "TTKPRESTIG.NS",
@@ -13497,7 +13497,7 @@
     "analyst_count": 9,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.104669+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.777483+00:00"
   },
   {
     "ticker": "SUDARSCHEM.NS",
@@ -13547,7 +13547,7 @@
     "analyst_count": 6,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.277377+00:00"
+    "news_updated_at": "2026-06-16T06:55:41.869172+00:00"
   },
   {
     "ticker": "IXIGO.NS",
@@ -13597,7 +13597,7 @@
     "analyst_count": 7,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.558770+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.092569+00:00"
   },
   {
     "ticker": "TANLA.NS",
@@ -13647,7 +13647,7 @@
     "analyst_count": 2,
     "recommendation": "hold",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.671032+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.238065+00:00"
   },
   {
     "ticker": "EPL.NS",
@@ -13697,7 +13697,7 @@
     "analyst_count": 7,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.781084+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.397050+00:00"
   },
   {
     "ticker": "SPARC.NS",
@@ -13747,7 +13747,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.878495+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.479249+00:00"
   },
   {
     "ticker": "LATENTVIEW.NS",
@@ -13797,7 +13797,7 @@
     "analyst_count": 4,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:08.973755+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.568394+00:00"
   },
   {
     "ticker": "GSFC.NS",
@@ -13847,7 +13847,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.072257+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.660828+00:00"
   },
   {
     "ticker": "NEWGEN.NS",
@@ -13897,7 +13897,7 @@
     "analyst_count": 7,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.236075+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.772224+00:00"
   },
   {
     "ticker": "GALAXYSURF.NS",
@@ -13947,7 +13947,7 @@
     "analyst_count": 12,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.342252+00:00"
+    "news_updated_at": "2026-06-16T06:55:42.914130+00:00"
   },
   {
     "ticker": "SKIPPER.NS",
@@ -13997,7 +13997,7 @@
     "analyst_count": 2,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.509037+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.042387+00:00"
   },
   {
     "ticker": "HAPPSTMNDS.NS",
@@ -14047,7 +14047,7 @@
     "analyst_count": 8,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.654236+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.156636+00:00"
   },
   {
     "ticker": "MASTEK.NS",
@@ -14097,7 +14097,7 @@
     "analyst_count": 5,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.796162+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.271351+00:00"
   },
   {
     "ticker": "ICRA.NS",
@@ -14147,7 +14147,7 @@
     "analyst_count": 2,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:09.963149+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.417199+00:00"
   },
   {
     "ticker": "DHANUKA.NS",
@@ -14197,7 +14197,7 @@
     "analyst_count": 8,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.143661+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.548825+00:00"
   },
   {
     "ticker": "SYMPHONY.NS",
@@ -14247,7 +14247,7 @@
     "analyst_count": 7,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.254723+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.697908+00:00"
   },
   {
     "ticker": "MAPMYINDIA.NS",
@@ -14297,7 +14297,7 @@
     "analyst_count": 6,
     "recommendation": "buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.433711+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.831759+00:00"
   },
   {
     "ticker": "VIPIND.NS",
@@ -14347,7 +14347,7 @@
     "analyst_count": 6,
     "recommendation": "underperform",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.534209+00:00"
+    "news_updated_at": "2026-06-16T06:55:43.920881+00:00"
   },
   {
     "ticker": "SUBROS.NS",
@@ -14397,7 +14397,7 @@
     "analyst_count": 3,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.677473+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.069235+00:00"
   },
   {
     "ticker": "RALLIS.NS",
@@ -14447,7 +14447,7 @@
     "analyst_count": 15,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.834764+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.169291+00:00"
   },
   {
     "ticker": "JUSTDIAL.NS",
@@ -14497,7 +14497,7 @@
     "analyst_count": 7,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:10.941963+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.265070+00:00"
   },
   {
     "ticker": "LUXIND.NS",
@@ -14547,7 +14547,7 @@
     "analyst_count": 1,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.035691+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.351835+00:00"
   },
   {
     "ticker": "GHCL.NS",
@@ -14597,7 +14597,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.184816+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.490670+00:00"
   },
   {
     "ticker": "SHOPERSTOP.NS",
@@ -14647,7 +14647,7 @@
     "analyst_count": 9,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.339668+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.641830+00:00"
   },
   {
     "ticker": "KNRCON.NS",
@@ -14697,7 +14697,7 @@
     "analyst_count": 16,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.463525+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.771291+00:00"
   },
   {
     "ticker": "RAYMOND.NS",
@@ -14747,7 +14747,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.592571+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.868156+00:00"
   },
   {
     "ticker": "GMMPFAUDLR.NS",
@@ -14797,7 +14797,7 @@
     "analyst_count": 1,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.696970+00:00"
+    "news_updated_at": "2026-06-16T06:55:44.971212+00:00"
   },
   {
     "ticker": "PSPPROJECT.NS",
@@ -14847,7 +14847,7 @@
     "analyst_count": 9,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.837001+00:00"
+    "news_updated_at": "2026-06-16T06:55:45.098072+00:00"
   },
   {
     "ticker": "KOLTEPATIL.NS",
@@ -14897,7 +14897,7 @@
     "analyst_count": 4,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:11.939908+00:00"
+    "news_updated_at": "2026-06-16T06:55:45.182700+00:00"
   },
   {
     "ticker": "UFLEX.NS",
@@ -14947,7 +14947,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:12.043280+00:00"
+    "news_updated_at": "2026-06-16T06:55:45.310671+00:00"
   },
   {
     "ticker": "ROUTE.NS",
@@ -14997,7 +14997,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:12.208900+00:00"
+    "news_updated_at": "2026-06-16T06:55:45.426849+00:00"
   },
   {
     "ticker": "GREENPLY.NS",
@@ -15047,7 +15047,7 @@
     "analyst_count": 14,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:13.314983+00:00"
+    "news_updated_at": "2026-06-16T06:55:46.528052+00:00"
   },
   {
     "ticker": "QUESS.NS",
@@ -15097,7 +15097,7 @@
     "analyst_count": 8,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:13.480461+00:00"
+    "news_updated_at": "2026-06-16T06:55:46.680685+00:00"
   },
   {
     "ticker": "ROSSARI.NS",
@@ -15147,7 +15147,7 @@
     "analyst_count": 4,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:13.641237+00:00"
+    "news_updated_at": "2026-06-16T06:55:46.819352+00:00"
   },
   {
     "ticker": "NOCIL.NS",
@@ -15197,7 +15197,7 @@
     "analyst_count": 6,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:13.830465+00:00"
+    "news_updated_at": "2026-06-16T06:55:46.987910+00:00"
   },
   {
     "ticker": "SOLARA.NS",
@@ -15247,7 +15247,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:13.996650+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.133978+00:00"
   },
   {
     "ticker": "UNIPARTS.NS",
@@ -15297,7 +15297,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.116844+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.224773+00:00"
   },
   {
     "ticker": "HIKAL.NS",
@@ -15347,7 +15347,7 @@
     "analyst_count": 1,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.274107+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.354368+00:00"
   },
   {
     "ticker": "UTKARSHBNK.NS",
@@ -15397,7 +15397,7 @@
     "analyst_count": 2,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.386922+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.443308+00:00"
   },
   {
     "ticker": "TEAMLEASE.NS",
@@ -15447,7 +15447,7 @@
     "analyst_count": 12,
     "recommendation": "strong_buy",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.592938+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.595102+00:00"
   },
   {
     "ticker": "SPANDANA.NS",
@@ -15497,7 +15497,7 @@
     "analyst_count": 5,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.752847+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.812013+00:00"
   },
   {
     "ticker": "VENKEYS.NS",
@@ -15547,7 +15547,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.853201+00:00"
+    "news_updated_at": "2026-06-16T06:55:47.918845+00:00"
   },
   {
     "ticker": "TASTYBITE.NS",
@@ -15597,7 +15597,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:14.949217+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.005742+00:00"
   },
   {
     "ticker": "TVTODAY.NS",
@@ -15647,7 +15647,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.048086+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.099873+00:00"
   },
   {
     "ticker": "INFOSYS.NS",
@@ -15697,7 +15697,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.141800+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.194532+00:00"
   },
   {
     "ticker": "TATAMOTORS.NS",
@@ -15747,7 +15747,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.276633+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.357779+00:00"
   },
   {
     "ticker": "ZOMATO.NS",
@@ -15797,7 +15797,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.380608+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.460629+00:00"
   },
   {
     "ticker": "TVSMOTORS.NS",
@@ -15847,7 +15847,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.477091+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.550277+00:00"
   },
   {
     "ticker": "EXLSERVICE.NS",
@@ -15897,7 +15897,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.580295+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.723941+00:00"
   },
   {
     "ticker": "HAWKINCOOK.NS",
@@ -15947,7 +15947,7 @@
     "analyst_count": null,
     "recommendation": "none",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.712161+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.807755+00:00"
   },
   {
     "ticker": "HIMADRI.NS",
@@ -15997,7 +15997,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.805931+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.893301+00:00"
   },
   {
     "ticker": "ISEC.NS",
@@ -16047,7 +16047,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:15.909873+00:00"
+    "news_updated_at": "2026-06-16T06:55:48.985772+00:00"
   },
   {
     "ticker": "MTAR.NS",
@@ -16097,7 +16097,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:16.023939+00:00"
+    "news_updated_at": "2026-06-16T06:55:49.078001+00:00"
   },
   {
     "ticker": "PRAJ.NS",
@@ -16147,7 +16147,7 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:16.145159+00:00"
+    "news_updated_at": "2026-06-16T06:55:49.165019+00:00"
   },
   {
     "ticker": "SEQUENT.NS",
@@ -16197,6 +16197,6 @@
     "analyst_count": null,
     "recommendation": "",
     "news": [],
-    "news_updated_at": "2026-06-13T05:52:16.248002+00:00"
+    "news_updated_at": "2026-06-16T06:55:49.298053+00:00"
   }
 ]
