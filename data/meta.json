@@ -1,10 +1,8 @@
 {
-  "last_financial_update": "2026-06-01T06:23:55.250329+00:00",
+  "last_financial_update": "2026-09-01T06:24:09.564832+00:00",
   "total_companies": 324,
   "fetch_ok": 325,
   "fetch_failed": 0,
   "fetch_skipped": 0,
-  "source": "Yahoo Finance via yfinance",
-  "last_news_update": "2026-08-31T07:13:23.891767+00:00",
-  "news_updated_count": 324
+  "source": "Yahoo Finance via yfinance"
 }
